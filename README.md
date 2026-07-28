@@ -72,11 +72,13 @@ Each problem folder contains:
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Hazardous-ri/Leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Hazardous-ri/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Hazardous-ri/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Hazardous-ri/Leetcode/tree/master/0048-rotate-image) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Hazardous-ri/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 ## Sorting
 |  |
@@ -90,6 +92,7 @@ Each problem folder contains:
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Hazardous-ri/Leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Hazardous-ri/Leetcode/tree/master/0073-set-matrix-zeroes) |
 ## String
 |  |
