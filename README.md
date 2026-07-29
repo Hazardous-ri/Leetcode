@@ -73,6 +73,7 @@ Each problem folder contains:
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Hazardous-ri/Leetcode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Hazardous-ri/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Hazardous-ri/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Hazardous-ri/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 ## Math
@@ -93,6 +94,7 @@ Each problem folder contains:
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Hazardous-ri/Leetcode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Hazardous-ri/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Hazardous-ri/Leetcode/tree/master/0073-set-matrix-zeroes) |
 ## String
 |  |
@@ -102,4 +104,8 @@ Each problem folder contains:
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Hazardous-ri/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Hazardous-ri/Leetcode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
