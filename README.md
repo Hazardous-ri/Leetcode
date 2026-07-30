@@ -83,6 +83,7 @@ Each problem folder contains:
 | ------- |
 | [0048-rotate-image](https://github.com/Hazardous-ri/Leetcode/tree/master/0048-rotate-image) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Hazardous-ri/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Hazardous-ri/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Sorting
 |  |
 | ------- |
@@ -102,6 +103,7 @@ Each problem folder contains:
 ## String
 |  |
 | ------- |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Hazardous-ri/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Hazardous-ri/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting Sort
 |  |
@@ -119,4 +121,8 @@ Each problem folder contains:
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/Hazardous-ri/Leetcode/tree/master/0118-pascals-triangle) |
+## Greedy
+|  |
+| ------- |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Hazardous-ri/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 <!---LeetCode Topics End-->
