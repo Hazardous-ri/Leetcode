@@ -1,6 +1,7 @@
 class Solution {
 public:
     int minimumPushes(string word) {
+        
         int n = word.size();
 
         if (n <= 8) {
