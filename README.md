@@ -76,6 +76,7 @@ Each problem folder contains:
 | [0054-spiral-matrix](https://github.com/Hazardous-ri/Leetcode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Hazardous-ri/Leetcode/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Hazardous-ri/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0088-merge-sorted-array](https://github.com/Hazardous-ri/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Hazardous-ri/Leetcode/tree/master/0118-pascals-triangle) |
 | [0486-predict-the-winner](https://github.com/Hazardous-ri/Leetcode/tree/master/0486-predict-the-winner) |
 | [0560-subarray-sum-equals-k](https://github.com/Hazardous-ri/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -96,6 +97,7 @@ Each problem folder contains:
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Hazardous-ri/Leetcode/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/Hazardous-ri/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Hazardous-ri/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Hazardous-ri/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Hazardous-ri/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -166,4 +168,8 @@ Each problem folder contains:
 | [0486-predict-the-winner](https://github.com/Hazardous-ri/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Hazardous-ri/Leetcode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Hazardous-ri/Leetcode/tree/master/1406-stone-game-iii) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/Hazardous-ri/Leetcode/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
