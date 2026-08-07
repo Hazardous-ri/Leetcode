@@ -72,6 +72,7 @@ Each problem folder contains:
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Hazardous-ri/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Hazardous-ri/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0048-rotate-image](https://github.com/Hazardous-ri/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Hazardous-ri/Leetcode/tree/master/0054-spiral-matrix) |
@@ -199,6 +200,7 @@ Each problem folder contains:
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Hazardous-ri/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Hazardous-ri/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0493-reverse-pairs](https://github.com/Hazardous-ri/Leetcode/tree/master/0493-reverse-pairs) |
 ## Divide and Conquer
