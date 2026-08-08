@@ -84,6 +84,7 @@ Each problem folder contains:
 | [0162-find-peak-element](https://github.com/Hazardous-ri/Leetcode/tree/master/0162-find-peak-element) |
 | [0486-predict-the-winner](https://github.com/Hazardous-ri/Leetcode/tree/master/0486-predict-the-winner) |
 | [0493-reverse-pairs](https://github.com/Hazardous-ri/Leetcode/tree/master/0493-reverse-pairs) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Hazardous-ri/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Hazardous-ri/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Hazardous-ri/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Hazardous-ri/Leetcode/tree/master/0877-stone-game) |
@@ -209,6 +210,7 @@ Each problem folder contains:
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Hazardous-ri/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0162-find-peak-element](https://github.com/Hazardous-ri/Leetcode/tree/master/0162-find-peak-element) |
 | [0493-reverse-pairs](https://github.com/Hazardous-ri/Leetcode/tree/master/0493-reverse-pairs) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Hazardous-ri/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 ## Divide and Conquer
 |  |
 | ------- |
