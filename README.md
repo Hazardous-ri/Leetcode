@@ -88,6 +88,7 @@ Each problem folder contains:
 | [0560-subarray-sum-equals-k](https://github.com/Hazardous-ri/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Hazardous-ri/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Hazardous-ri/Leetcode/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Hazardous-ri/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Hazardous-ri/Leetcode/tree/master/1406-stone-game-iii) |
 | [3731-find-missing-elements](https://github.com/Hazardous-ri/Leetcode/tree/master/3731-find-missing-elements) |
 ## Math
@@ -97,6 +98,7 @@ Each problem folder contains:
 | [0486-predict-the-winner](https://github.com/Hazardous-ri/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Hazardous-ri/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Hazardous-ri/Leetcode/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Hazardous-ri/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Hazardous-ri/Leetcode/tree/master/1406-stone-game-iii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Hazardous-ri/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Hazardous-ri/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -144,6 +146,7 @@ Each problem folder contains:
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Hazardous-ri/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [1140-stone-game-ii](https://github.com/Hazardous-ri/Leetcode/tree/master/1140-stone-game-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -151,6 +154,7 @@ Each problem folder contains:
 | [0152-maximum-product-subarray](https://github.com/Hazardous-ri/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0486-predict-the-winner](https://github.com/Hazardous-ri/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Hazardous-ri/Leetcode/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Hazardous-ri/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Hazardous-ri/Leetcode/tree/master/1406-stone-game-iii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Hazardous-ri/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Greedy
@@ -169,18 +173,21 @@ Each problem folder contains:
 | ------- |
 | [0486-predict-the-winner](https://github.com/Hazardous-ri/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Hazardous-ri/Leetcode/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Hazardous-ri/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Hazardous-ri/Leetcode/tree/master/1406-stone-game-iii) |
 ## Game Theory
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Hazardous-ri/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Hazardous-ri/Leetcode/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Hazardous-ri/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Hazardous-ri/Leetcode/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Hazardous-ri/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Hazardous-ri/Leetcode/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Hazardous-ri/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Hazardous-ri/Leetcode/tree/master/1406-stone-game-iii) |
 ## Two Pointers
 |  |
