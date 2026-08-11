@@ -75,6 +75,7 @@ Each problem folder contains:
 | [0033-search-in-rotated-sorted-array](https://github.com/Hazardous-ri/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Hazardous-ri/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0048-rotate-image](https://github.com/Hazardous-ri/Leetcode/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/Hazardous-ri/Leetcode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Hazardous-ri/Leetcode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Hazardous-ri/Leetcode/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Hazardous-ri/Leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -109,6 +110,7 @@ Each problem folder contains:
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Hazardous-ri/Leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Hazardous-ri/Leetcode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Hazardous-ri/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Hazardous-ri/Leetcode/tree/master/0217-contains-duplicate) |
@@ -121,6 +123,7 @@ Each problem folder contains:
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Hazardous-ri/Leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Hazardous-ri/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0217-contains-duplicate](https://github.com/Hazardous-ri/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Hazardous-ri/Leetcode/tree/master/0242-valid-anagram) |
@@ -137,6 +140,7 @@ Each problem folder contains:
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Hazardous-ri/Leetcode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Hazardous-ri/Leetcode/tree/master/0242-valid-anagram) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Hazardous-ri/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Hazardous-ri/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
