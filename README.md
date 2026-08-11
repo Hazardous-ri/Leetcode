@@ -128,6 +128,7 @@ Each problem folder contains:
 | [0205-isomorphic-strings](https://github.com/Hazardous-ri/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Hazardous-ri/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Hazardous-ri/Leetcode/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/Hazardous-ri/Leetcode/tree/master/0290-word-pattern) |
 | [0560-subarray-sum-equals-k](https://github.com/Hazardous-ri/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Hazardous-ri/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Hazardous-ri/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -144,6 +145,7 @@ Each problem folder contains:
 | [0049-group-anagrams](https://github.com/Hazardous-ri/Leetcode/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/Hazardous-ri/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Hazardous-ri/Leetcode/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/Hazardous-ri/Leetcode/tree/master/0290-word-pattern) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Hazardous-ri/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Hazardous-ri/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Hazardous-ri/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
