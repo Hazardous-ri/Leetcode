@@ -84,6 +84,7 @@ Each problem folder contains:
 | [0152-maximum-product-subarray](https://github.com/Hazardous-ri/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/Hazardous-ri/Leetcode/tree/master/0162-find-peak-element) |
 | [0217-contains-duplicate](https://github.com/Hazardous-ri/Leetcode/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/Hazardous-ri/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0486-predict-the-winner](https://github.com/Hazardous-ri/Leetcode/tree/master/0486-predict-the-winner) |
 | [0493-reverse-pairs](https://github.com/Hazardous-ri/Leetcode/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Hazardous-ri/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -116,6 +117,7 @@ Each problem folder contains:
 | [0088-merge-sorted-array](https://github.com/Hazardous-ri/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Hazardous-ri/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Hazardous-ri/Leetcode/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/Hazardous-ri/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Hazardous-ri/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Hazardous-ri/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Hazardous-ri/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -130,6 +132,7 @@ Each problem folder contains:
 | [0217-contains-duplicate](https://github.com/Hazardous-ri/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Hazardous-ri/Leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Hazardous-ri/Leetcode/tree/master/0290-word-pattern) |
+| [0349-intersection-of-two-arrays](https://github.com/Hazardous-ri/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/Hazardous-ri/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Hazardous-ri/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Hazardous-ri/Leetcode/tree/master/0409-longest-palindrome) |
@@ -226,6 +229,7 @@ Each problem folder contains:
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Hazardous-ri/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0349-intersection-of-two-arrays](https://github.com/Hazardous-ri/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Hazardous-ri/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Depth-First Search
 |  |
@@ -249,6 +253,7 @@ Each problem folder contains:
 | [0033-search-in-rotated-sorted-array](https://github.com/Hazardous-ri/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Hazardous-ri/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0162-find-peak-element](https://github.com/Hazardous-ri/Leetcode/tree/master/0162-find-peak-element) |
+| [0349-intersection-of-two-arrays](https://github.com/Hazardous-ri/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0493-reverse-pairs](https://github.com/Hazardous-ri/Leetcode/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Hazardous-ri/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 ## Divide and Conquer
