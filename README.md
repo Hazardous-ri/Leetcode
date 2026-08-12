@@ -131,6 +131,7 @@ Each problem folder contains:
 | [0242-valid-anagram](https://github.com/Hazardous-ri/Leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Hazardous-ri/Leetcode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Hazardous-ri/Leetcode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Hazardous-ri/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Hazardous-ri/Leetcode/tree/master/0409-longest-palindrome) |
 | [0560-subarray-sum-equals-k](https://github.com/Hazardous-ri/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Hazardous-ri/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -151,6 +152,7 @@ Each problem folder contains:
 | [0242-valid-anagram](https://github.com/Hazardous-ri/Leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Hazardous-ri/Leetcode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Hazardous-ri/Leetcode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Hazardous-ri/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Hazardous-ri/Leetcode/tree/master/0409-longest-palindrome) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Hazardous-ri/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Hazardous-ri/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -161,6 +163,7 @@ Each problem folder contains:
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/Hazardous-ri/Leetcode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Hazardous-ri/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Hazardous-ri/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Hazardous-ri/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Simulation
@@ -292,4 +295,8 @@ Each problem folder contains:
 |  |
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Hazardous-ri/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Hazardous-ri/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
