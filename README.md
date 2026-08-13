@@ -81,6 +81,7 @@ Each problem folder contains:
 | [0073-set-matrix-zeroes](https://github.com/Hazardous-ri/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/Hazardous-ri/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Hazardous-ri/Leetcode/tree/master/0118-pascals-triangle) |
+| [0128-longest-consecutive-sequence](https://github.com/Hazardous-ri/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/Hazardous-ri/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/Hazardous-ri/Leetcode/tree/master/0162-find-peak-element) |
 | [0217-contains-duplicate](https://github.com/Hazardous-ri/Leetcode/tree/master/0217-contains-duplicate) |
@@ -130,6 +131,7 @@ Each problem folder contains:
 | ------- |
 | [0049-group-anagrams](https://github.com/Hazardous-ri/Leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Hazardous-ri/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/Hazardous-ri/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0205-isomorphic-strings](https://github.com/Hazardous-ri/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Hazardous-ri/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Hazardous-ri/Leetcode/tree/master/0242-valid-anagram) |
@@ -320,4 +322,8 @@ Each problem folder contains:
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Hazardous-ri/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Hazardous-ri/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
