@@ -85,6 +85,7 @@ Each problem folder contains:
 | [0152-maximum-product-subarray](https://github.com/Hazardous-ri/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/Hazardous-ri/Leetcode/tree/master/0162-find-peak-element) |
 | [0217-contains-duplicate](https://github.com/Hazardous-ri/Leetcode/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/Hazardous-ri/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/Hazardous-ri/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Hazardous-ri/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0486-predict-the-winner](https://github.com/Hazardous-ri/Leetcode/tree/master/0486-predict-the-winner) |
@@ -191,6 +192,7 @@ Each problem folder contains:
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Hazardous-ri/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/Hazardous-ri/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1140-stone-game-ii](https://github.com/Hazardous-ri/Leetcode/tree/master/1140-stone-game-ii) |
 ## Dynamic Programming
