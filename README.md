@@ -97,6 +97,7 @@ Each problem folder contains:
 | [0560-subarray-sum-equals-k](https://github.com/Hazardous-ri/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Hazardous-ri/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Hazardous-ri/Leetcode/tree/master/0877-stone-game) |
+| [0930-binary-subarrays-with-sum](https://github.com/Hazardous-ri/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Hazardous-ri/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1140-stone-game-ii](https://github.com/Hazardous-ri/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Hazardous-ri/Leetcode/tree/master/1406-stone-game-iii) |
@@ -153,6 +154,7 @@ Each problem folder contains:
 | [0523-continuous-subarray-sum](https://github.com/Hazardous-ri/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Hazardous-ri/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Hazardous-ri/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0930-binary-subarrays-with-sum](https://github.com/Hazardous-ri/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Hazardous-ri/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Hazardous-ri/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Hazardous-ri/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -205,6 +207,7 @@ Each problem folder contains:
 | [0523-continuous-subarray-sum](https://github.com/Hazardous-ri/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Hazardous-ri/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Hazardous-ri/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0930-binary-subarrays-with-sum](https://github.com/Hazardous-ri/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Hazardous-ri/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1140-stone-game-ii](https://github.com/Hazardous-ri/Leetcode/tree/master/1140-stone-game-ii) |
 ## Dynamic Programming
@@ -331,6 +334,7 @@ Each problem folder contains:
 ## Sliding Window
 |  |
 | ------- |
+| [0930-binary-subarrays-with-sum](https://github.com/Hazardous-ri/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Hazardous-ri/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Hazardous-ri/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Queue
