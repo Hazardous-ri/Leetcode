@@ -168,6 +168,7 @@ Each problem folder contains:
 | [0523-continuous-subarray-sum](https://github.com/Hazardous-ri/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Hazardous-ri/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Hazardous-ri/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/Hazardous-ri/Leetcode/tree/master/0567-permutation-in-string) |
 | [0930-binary-subarrays-with-sum](https://github.com/Hazardous-ri/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Hazardous-ri/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Hazardous-ri/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -195,6 +196,7 @@ Each problem folder contains:
 | [0424-longest-repeating-character-replacement](https://github.com/Hazardous-ri/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Hazardous-ri/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0520-detect-capital](https://github.com/Hazardous-ri/Leetcode/tree/master/0520-detect-capital) |
+| [0567-permutation-in-string](https://github.com/Hazardous-ri/Leetcode/tree/master/0567-permutation-in-string) |
 | [0844-backspace-string-compare](https://github.com/Hazardous-ri/Leetcode/tree/master/0844-backspace-string-compare) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Hazardous-ri/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Hazardous-ri/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -294,6 +296,7 @@ Each problem folder contains:
 | [0088-merge-sorted-array](https://github.com/Hazardous-ri/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Hazardous-ri/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/Hazardous-ri/Leetcode/tree/master/0392-is-subsequence) |
+| [0567-permutation-in-string](https://github.com/Hazardous-ri/Leetcode/tree/master/0567-permutation-in-string) |
 | [0611-valid-triangle-number](https://github.com/Hazardous-ri/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0844-backspace-string-compare](https://github.com/Hazardous-ri/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0881-boats-to-save-people](https://github.com/Hazardous-ri/Leetcode/tree/master/0881-boats-to-save-people) |
@@ -375,6 +378,7 @@ Each problem folder contains:
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Hazardous-ri/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Hazardous-ri/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/Hazardous-ri/Leetcode/tree/master/0567-permutation-in-string) |
 | [0930-binary-subarrays-with-sum](https://github.com/Hazardous-ri/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Hazardous-ri/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Hazardous-ri/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
