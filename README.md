@@ -203,6 +203,7 @@ Each problem folder contains:
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Hazardous-ri/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0020-valid-parentheses](https://github.com/Hazardous-ri/Leetcode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Hazardous-ri/Leetcode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Hazardous-ri/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0205-isomorphic-strings](https://github.com/Hazardous-ri/Leetcode/tree/master/0205-isomorphic-strings) |
@@ -456,6 +457,7 @@ Each problem folder contains:
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Hazardous-ri/Leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Hazardous-ri/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0844-backspace-string-compare](https://github.com/Hazardous-ri/Leetcode/tree/master/0844-backspace-string-compare) |
 ## Bit Manipulation
@@ -480,4 +482,8 @@ Each problem folder contains:
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Hazardous-ri/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Hazardous-ri/Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
