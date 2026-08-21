@@ -183,6 +183,7 @@ Each problem folder contains:
 | [0904-fruit-into-baskets](https://github.com/Hazardous-ri/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Hazardous-ri/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Hazardous-ri/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0981-time-based-key-value-store](https://github.com/Hazardous-ri/Leetcode/tree/master/0981-time-based-key-value-store) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Hazardous-ri/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1386-cinema-seat-allocation](https://github.com/Hazardous-ri/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Hazardous-ri/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -215,6 +216,7 @@ Each problem folder contains:
 | [0520-detect-capital](https://github.com/Hazardous-ri/Leetcode/tree/master/0520-detect-capital) |
 | [0567-permutation-in-string](https://github.com/Hazardous-ri/Leetcode/tree/master/0567-permutation-in-string) |
 | [0844-backspace-string-compare](https://github.com/Hazardous-ri/Leetcode/tree/master/0844-backspace-string-compare) |
+| [0981-time-based-key-value-store](https://github.com/Hazardous-ri/Leetcode/tree/master/0981-time-based-key-value-store) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Hazardous-ri/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Hazardous-ri/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Hazardous-ri/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -355,6 +357,7 @@ Each problem folder contains:
 | [0540-single-element-in-a-sorted-array](https://github.com/Hazardous-ri/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/Hazardous-ri/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0713-subarray-product-less-than-k](https://github.com/Hazardous-ri/Leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [0981-time-based-key-value-store](https://github.com/Hazardous-ri/Leetcode/tree/master/0981-time-based-key-value-store) |
 | [1004-max-consecutive-ones-iii](https://github.com/Hazardous-ri/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Hazardous-ri/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Divide and Conquer
@@ -443,6 +446,7 @@ Each problem folder contains:
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Hazardous-ri/Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0981-time-based-key-value-store](https://github.com/Hazardous-ri/Leetcode/tree/master/0981-time-based-key-value-store) |
 ## Pigeonhole Principle
 |  |
 | ------- |
