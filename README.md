@@ -115,6 +115,7 @@ Each problem folder contains:
 | [1406-stone-game-iii](https://github.com/Hazardous-ri/Leetcode/tree/master/1406-stone-game-iii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Hazardous-ri/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1563-stone-game-v](https://github.com/Hazardous-ri/Leetcode/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/Hazardous-ri/Leetcode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Hazardous-ri/Leetcode/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Hazardous-ri/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Hazardous-ri/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -136,6 +137,7 @@ Each problem folder contains:
 | [1406-stone-game-iii](https://github.com/Hazardous-ri/Leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Hazardous-ri/Leetcode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Hazardous-ri/Leetcode/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/Hazardous-ri/Leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Hazardous-ri/Leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Hazardous-ri/Leetcode/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Hazardous-ri/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -261,6 +263,7 @@ Each problem folder contains:
 | [0974-subarray-sums-divisible-by-k](https://github.com/Hazardous-ri/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Hazardous-ri/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/Hazardous-ri/Leetcode/tree/master/1140-stone-game-ii) |
+| [1872-stone-game-viii](https://github.com/Hazardous-ri/Leetcode/tree/master/1872-stone-game-viii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -276,6 +279,7 @@ Each problem folder contains:
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Hazardous-ri/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1510-stone-game-iv](https://github.com/Hazardous-ri/Leetcode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Hazardous-ri/Leetcode/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/Hazardous-ri/Leetcode/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Hazardous-ri/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Greedy
 |  |
@@ -302,6 +306,7 @@ Each problem folder contains:
 | [1140-stone-game-ii](https://github.com/Hazardous-ri/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Hazardous-ri/Leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Hazardous-ri/Leetcode/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/Hazardous-ri/Leetcode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Hazardous-ri/Leetcode/tree/master/2029-stone-game-ix) |
 ## Game Theory
 |  |
@@ -312,6 +317,7 @@ Each problem folder contains:
 | [1406-stone-game-iii](https://github.com/Hazardous-ri/Leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Hazardous-ri/Leetcode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Hazardous-ri/Leetcode/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/Hazardous-ri/Leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Hazardous-ri/Leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Hazardous-ri/Leetcode/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
@@ -322,6 +328,7 @@ Each problem folder contains:
 | [1140-stone-game-ii](https://github.com/Hazardous-ri/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Hazardous-ri/Leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Hazardous-ri/Leetcode/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/Hazardous-ri/Leetcode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Hazardous-ri/Leetcode/tree/master/2029-stone-game-ix) |
 ## Two Pointers
 |  |
