@@ -110,6 +110,7 @@ Each problem folder contains:
 | [0977-squares-of-a-sorted-array](https://github.com/Hazardous-ri/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Hazardous-ri/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Hazardous-ri/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Hazardous-ri/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1140-stone-game-ii](https://github.com/Hazardous-ri/Leetcode/tree/master/1140-stone-game-ii) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Hazardous-ri/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1386-cinema-seat-allocation](https://github.com/Hazardous-ri/Leetcode/tree/master/1386-cinema-seat-allocation) |
@@ -380,6 +381,7 @@ Each problem folder contains:
 | [0875-koko-eating-bananas](https://github.com/Hazardous-ri/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0981-time-based-key-value-store](https://github.com/Hazardous-ri/Leetcode/tree/master/0981-time-based-key-value-store) |
 | [1004-max-consecutive-ones-iii](https://github.com/Hazardous-ri/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Hazardous-ri/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Hazardous-ri/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Hazardous-ri/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Hazardous-ri/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
