@@ -231,6 +231,7 @@ Each problem folder contains:
 | [0981-time-based-key-value-store](https://github.com/Hazardous-ri/Leetcode/tree/master/0981-time-based-key-value-store) |
 | [1927-sum-game](https://github.com/Hazardous-ri/Leetcode/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Hazardous-ri/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Hazardous-ri/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Hazardous-ri/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Hazardous-ri/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Hazardous-ri/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -443,6 +444,7 @@ Each problem folder contains:
 | [0992-subarrays-with-k-different-integers](https://github.com/Hazardous-ri/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Hazardous-ri/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Hazardous-ri/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Hazardous-ri/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Hazardous-ri/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Hazardous-ri/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Queue
