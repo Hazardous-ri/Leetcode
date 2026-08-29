@@ -538,4 +538,8 @@ Each problem folder contains:
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Hazardous-ri/Leetcode/tree/master/0020-valid-parentheses) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Hazardous-ri/Leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
