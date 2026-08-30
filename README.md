@@ -92,6 +92,7 @@ Each problem folder contains:
 | [0238-product-of-array-except-self](https://github.com/Hazardous-ri/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Hazardous-ri/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0303-range-sum-query-immutable](https://github.com/Hazardous-ri/Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0322-coin-change](https://github.com/Hazardous-ri/Leetcode/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Hazardous-ri/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Hazardous-ri/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/Hazardous-ri/Leetcode/tree/master/0410-split-array-largest-sum) |
@@ -300,6 +301,7 @@ Each problem folder contains:
 | [0042-trapping-rain-water](https://github.com/Hazardous-ri/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0118-pascals-triangle](https://github.com/Hazardous-ri/Leetcode/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/Hazardous-ri/Leetcode/tree/master/0152-maximum-product-subarray) |
+| [0322-coin-change](https://github.com/Hazardous-ri/Leetcode/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/Hazardous-ri/Leetcode/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/Hazardous-ri/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0486-predict-the-winner](https://github.com/Hazardous-ri/Leetcode/tree/master/0486-predict-the-winner) |
@@ -388,6 +390,7 @@ Each problem folder contains:
 ## Breadth-First Search
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/Hazardous-ri/Leetcode/tree/master/0322-coin-change) |
 | [3310-remove-methods-from-project](https://github.com/Hazardous-ri/Leetcode/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
 |  |
@@ -563,4 +566,12 @@ Each problem folder contains:
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Hazardous-ri/Leetcode/tree/master/0796-rotate-string) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Hazardous-ri/Leetcode/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Hazardous-ri/Leetcode/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
