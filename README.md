@@ -72,6 +72,7 @@ Each problem folder contains:
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Hazardous-ri/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Hazardous-ri/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Hazardous-ri/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Hazardous-ri/Leetcode/tree/master/0042-trapping-rain-water) |
@@ -225,6 +226,7 @@ Each problem folder contains:
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Hazardous-ri/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Hazardous-ri/Leetcode/tree/master/0010-regular-expression-matching) |
+| [0014-longest-common-prefix](https://github.com/Hazardous-ri/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Hazardous-ri/Leetcode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Hazardous-ri/Leetcode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Hazardous-ri/Leetcode/tree/master/0076-minimum-window-substring) |
@@ -552,4 +554,8 @@ Each problem folder contains:
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/Hazardous-ri/Leetcode/tree/master/0175-combine-two-tables) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Hazardous-ri/Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
