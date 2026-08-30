@@ -242,6 +242,7 @@ Each problem folder contains:
 | [0451-sort-characters-by-frequency](https://github.com/Hazardous-ri/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0520-detect-capital](https://github.com/Hazardous-ri/Leetcode/tree/master/0520-detect-capital) |
 | [0567-permutation-in-string](https://github.com/Hazardous-ri/Leetcode/tree/master/0567-permutation-in-string) |
+| [0796-rotate-string](https://github.com/Hazardous-ri/Leetcode/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/Hazardous-ri/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0981-time-based-key-value-store](https://github.com/Hazardous-ri/Leetcode/tree/master/0981-time-based-key-value-store) |
 | [1021-remove-outermost-parentheses](https://github.com/Hazardous-ri/Leetcode/tree/master/1021-remove-outermost-parentheses) |
@@ -558,4 +559,8 @@ Each problem folder contains:
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Hazardous-ri/Leetcode/tree/master/0014-longest-common-prefix) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Hazardous-ri/Leetcode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
