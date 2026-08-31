@@ -581,4 +581,8 @@ Each problem folder contains:
 | ------- |
 | [0322-coin-change](https://github.com/Hazardous-ri/Leetcode/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Hazardous-ri/Leetcode/tree/master/0518-coin-change-ii) |
+## Linked List
+|  |
+| ------- |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Hazardous-ri/Leetcode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 <!---LeetCode Topics End-->
