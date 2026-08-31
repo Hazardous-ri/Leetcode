@@ -141,6 +141,7 @@ Each problem folder contains:
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Hazardous-ri/Leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Hazardous-ri/Leetcode/tree/master/0048-rotate-image) |
 | [0486-predict-the-winner](https://github.com/Hazardous-ri/Leetcode/tree/master/0486-predict-the-winner) |
 | [0523-continuous-subarray-sum](https://github.com/Hazardous-ri/Leetcode/tree/master/0523-continuous-subarray-sum) |
@@ -182,6 +183,7 @@ Each problem folder contains:
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Hazardous-ri/Leetcode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Hazardous-ri/Leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Hazardous-ri/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Hazardous-ri/Leetcode/tree/master/0076-minimum-window-substring) |
@@ -228,6 +230,7 @@ Each problem folder contains:
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Hazardous-ri/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Hazardous-ri/Leetcode/tree/master/0010-regular-expression-matching) |
+| [0013-roman-to-integer](https://github.com/Hazardous-ri/Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Hazardous-ri/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Hazardous-ri/Leetcode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Hazardous-ri/Leetcode/tree/master/0049-group-anagrams) |
