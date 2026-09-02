@@ -350,6 +350,7 @@ Each problem folder contains:
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Hazardous-ri/Leetcode/tree/master/0010-regular-expression-matching) |
+| [0021-merge-two-sorted-lists](https://github.com/Hazardous-ri/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0486-predict-the-winner](https://github.com/Hazardous-ri/Leetcode/tree/master/0486-predict-the-winner) |
 ## Minimax
 |  |
@@ -600,6 +601,7 @@ Each problem folder contains:
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Hazardous-ri/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Hazardous-ri/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Hazardous-ri/Leetcode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Hazardous-ri/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
