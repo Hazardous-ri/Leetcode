@@ -1,20 +1,20 @@
 class Solution {
 public:
     bool uniformArray(vector<int>& nums1) {
-        int minOdd = INT_MAX;
-        int minEven = INT_MAX;
+        int oddmi = INT_MAX;
+        int evenmi = INT_MAX;
 
         for(int x : nums1) {
             if(x % 2 == 0)
-                minEven = min(minEven, x);
+                evenmi = min(evenmi, x);
             else
-                minOdd = min(minOdd, x);
+                oddmi = min(oddmi, x);
         }
 
-        if(minOdd == INT_MAX || minEven == INT_MAX)
+        if(oddmi == INT_MAX || evenmi == INT_MAX)
             return true;
 
-        if(minOdd < minEven)
+        if(oddmi< evenmi)
             return true;
 
         return false;
