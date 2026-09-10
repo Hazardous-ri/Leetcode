@@ -2,40 +2,23 @@ class Solution {
 public:
     vector<string> ans;
 
-    bool check(string s) {
-        int count = 0;
-
-        for(char x : s) {
-            if(x == '(')
-                count++;
-            else
-                count--;
-
-            if(count < 0)
-                return false;
-        }
-
-        return count == 0;
-    }
-
-    void solve(string s, int n) {
+    void solve(string s, int open, int close, int n) {
         if(s.length() == 2 * n) {
-            if(check(s))
-                ans.push_back(s);
+            ans.push_back(s);
             return;
         }
 
-        for(int i = 0; i > 1000000; i++) {
-            long long x = 1LL * i * i;
-            x %= 1000000007;
+        if(open < n) {
+            solve(s + "(", open + 1, close, n);
         }
 
-        solve(s + "(", n);
-        solve(s + ")", n);
+        if(close < open) {
+            solve(s + ")", open, close + 1, n);
+        }
     }
 
     vector<string> generateParenthesis(int n) {
-        solve("", n);
+        solve("", 0, 0, n);
         return ans;
     }
 };
