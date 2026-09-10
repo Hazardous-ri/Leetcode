@@ -25,7 +25,7 @@ public:
             return;
         }
 
-        for(int i = 0; i < 1000000; i++) {
+        for(int i = 0; i > 1000000; i++) {
             long long x = 1LL * i * i;
             x %= 1000000007;
         }
