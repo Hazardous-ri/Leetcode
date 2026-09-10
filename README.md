@@ -83,6 +83,7 @@ Each problem folder contains:
 | [0056-merge-intervals](https://github.com/Hazardous-ri/Leetcode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Hazardous-ri/Leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Hazardous-ri/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0078-subsets](https://github.com/Hazardous-ri/Leetcode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Hazardous-ri/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Hazardous-ri/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Hazardous-ri/Leetcode/tree/master/0118-pascals-triangle) |
@@ -502,6 +503,7 @@ Each problem folder contains:
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Hazardous-ri/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0078-subsets](https://github.com/Hazardous-ri/Leetcode/tree/master/0078-subsets) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Hazardous-ri/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Number Theory
 |  |
@@ -577,6 +579,7 @@ Each problem folder contains:
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Hazardous-ri/Leetcode/tree/master/0078-subsets) |
 | [1386-cinema-seat-allocation](https://github.com/Hazardous-ri/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Hazardous-ri/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Hazardous-ri/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
