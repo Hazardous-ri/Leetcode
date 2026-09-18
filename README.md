@@ -194,6 +194,7 @@ Each problem folder contains:
 | [0628-maximum-product-of-three-numbers](https://github.com/Hazardous-ri/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0881-boats-to-save-people](https://github.com/Hazardous-ri/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/Hazardous-ri/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Hazardous-ri/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Hazardous-ri/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Hazardous-ri/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Hazardous-ri/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -233,6 +234,7 @@ Each problem folder contains:
 | [0992-subarrays-with-k-different-integers](https://github.com/Hazardous-ri/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1386-cinema-seat-allocation](https://github.com/Hazardous-ri/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Hazardous-ri/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Hazardous-ri/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Hazardous-ri/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Hazardous-ri/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Hazardous-ri/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -286,6 +288,7 @@ Each problem folder contains:
 | [0940-distinct-subsequences-ii](https://github.com/Hazardous-ri/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [0981-time-based-key-value-store](https://github.com/Hazardous-ri/Leetcode/tree/master/0981-time-based-key-value-store) |
 | [1021-remove-outermost-parentheses](https://github.com/Hazardous-ri/Leetcode/tree/master/1021-remove-outermost-parentheses) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Hazardous-ri/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Hazardous-ri/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Hazardous-ri/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/Hazardous-ri/Leetcode/tree/master/1903-largest-odd-number-in-string) |
@@ -376,6 +379,7 @@ Each problem folder contains:
 | [0611-valid-triangle-number](https://github.com/Hazardous-ri/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0881-boats-to-save-people](https://github.com/Hazardous-ri/Leetcode/tree/master/0881-boats-to-save-people) |
 | [1386-cinema-seat-allocation](https://github.com/Hazardous-ri/Leetcode/tree/master/1386-cinema-seat-allocation) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Hazardous-ri/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/Hazardous-ri/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/Hazardous-ri/Leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Hazardous-ri/Leetcode/tree/master/2029-stone-game-ix) |
