@@ -130,6 +130,7 @@ Each problem folder contains:
 | [1539-kth-missing-positive-number](https://github.com/Hazardous-ri/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1563-stone-game-v](https://github.com/Hazardous-ri/Leetcode/tree/master/1563-stone-game-v) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Hazardous-ri/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Hazardous-ri/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1872-stone-game-viii](https://github.com/Hazardous-ri/Leetcode/tree/master/1872-stone-game-viii) |
 | [1901-find-a-peak-element-ii](https://github.com/Hazardous-ri/Leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [2029-stone-game-ix](https://github.com/Hazardous-ri/Leetcode/tree/master/2029-stone-game-ix) |
@@ -245,6 +246,7 @@ Each problem folder contains:
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Hazardous-ri/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Hazardous-ri/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Hazardous-ri/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Hazardous-ri/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Hazardous-ri/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Hazardous-ri/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Hazardous-ri/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -301,6 +303,7 @@ Each problem folder contains:
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Hazardous-ri/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Hazardous-ri/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Hazardous-ri/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Hazardous-ri/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1903-largest-odd-number-in-string](https://github.com/Hazardous-ri/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/Hazardous-ri/Leetcode/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Hazardous-ri/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
