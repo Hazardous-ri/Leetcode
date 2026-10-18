@@ -301,6 +301,7 @@ Each problem folder contains:
 | [0567-permutation-in-string](https://github.com/Hazardous-ri/Leetcode/tree/master/0567-permutation-in-string) |
 | [0796-rotate-string](https://github.com/Hazardous-ri/Leetcode/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/Hazardous-ri/Leetcode/tree/master/0844-backspace-string-compare) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Hazardous-ri/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/Hazardous-ri/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [0981-time-based-key-value-store](https://github.com/Hazardous-ri/Leetcode/tree/master/0981-time-based-key-value-store) |
 | [1021-remove-outermost-parentheses](https://github.com/Hazardous-ri/Leetcode/tree/master/1021-remove-outermost-parentheses) |
@@ -403,6 +404,7 @@ Each problem folder contains:
 | [0410-split-array-largest-sum](https://github.com/Hazardous-ri/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0611-valid-triangle-number](https://github.com/Hazardous-ri/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0881-boats-to-save-people](https://github.com/Hazardous-ri/Leetcode/tree/master/0881-boats-to-save-people) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Hazardous-ri/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1386-cinema-seat-allocation](https://github.com/Hazardous-ri/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Hazardous-ri/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/Hazardous-ri/Leetcode/tree/master/1903-largest-odd-number-in-string) |
@@ -633,6 +635,7 @@ Each problem folder contains:
 | [0032-longest-valid-parentheses](https://github.com/Hazardous-ri/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Hazardous-ri/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0844-backspace-string-compare](https://github.com/Hazardous-ri/Leetcode/tree/master/0844-backspace-string-compare) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Hazardous-ri/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Hazardous-ri/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Hazardous-ri/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Hazardous-ri/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -669,6 +672,7 @@ Each problem folder contains:
 | [0020-valid-parentheses](https://github.com/Hazardous-ri/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Hazardous-ri/Leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Hazardous-ri/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Hazardous-ri/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Hazardous-ri/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Hazardous-ri/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Hazardous-ri/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
